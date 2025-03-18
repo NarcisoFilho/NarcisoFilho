@@ -1,6 +1,8 @@
-<table border="0" cellpadding="0" cellspacing="0">
+<table style="border: none; border-collapse: collapse; width: 100%;">
   <tr>
-    <td style="border: none;"><img src="https://github.com/user-attachments/assets/4e759c19-2a67-43a1-abf8-9636f29692b8" width="300" /></td>
+    <td style="border: none; padding-right: 20px;">
+      <img src="https://github.com/user-attachments/assets/4e759c19-2a67-43a1-abf8-9636f29692b8" width="300" />
+    </td>
     <td style="border: none;">
       <h3>🛠️ Technologies:</h3>
       <ul>
