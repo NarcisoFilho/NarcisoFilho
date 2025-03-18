@@ -1,54 +1,76 @@
 # 💻 About Me | Sobre Mim | Über Mich
 
-👋 **English:** Hi! I'm an electronics and programming enthusiast, always looking to solve complex challenges and learn new technologies.
+<details>
+  <summary>🌍 English</summary>
+  
+  👋 Hi! I'm an electronics and programming enthusiast, always looking to solve complex challenges and learn new technologies.
+  
+  🎓 Computer Engineering student at UFRGS.
+  
+  ⚡ Experienced in software and hardware development, including programming languages and digital/analog electronics.
+  
+  ## 🛠️ Skills
+  - **Programming Languages & Technologies:** C, C++, Java, JavaScript, PHP, HTML, CSS, VHDL
+  - **Electronics:** Analog & Digital
+  - **Tools & Frameworks:** Git & GitHub, Arduino, Raspberry Pi, Web & Backend Development
+  
+  ## 🚀 Projects
+  🔹 Soon, I will add some of my interesting projects here. Stay tuned!
+  
+  ## 📫 Contact
+  - [LinkedIn](#)
+  - Email: *(your email)*
+  - GitHub: [@your-username](https://github.com/your-username)
+  
+  ⭐ If you like my profile, don't forget to follow me! 😃
+</details>
 
-👋 **Português:** Olá! Sou um entusiasta da eletrônica e programação, sempre buscando solucionar desafios complexos e aprender novas tecnologias.
+<details>
+  <summary>🌍 Português</summary>
+  
+  👋 Olá! Sou um entusiasta da eletrônica e programação, sempre buscando solucionar desafios complexos e aprender novas tecnologias.
+  
+  🎓 Estudante de Engenharia da Computação na UFRGS.
+  
+  ⚡ Tenho experiência com desenvolvimento de software e hardware, incluindo linguagens de programação e eletrônica digital/analógica.
+  
+  ## 🛠️ Habilidades
+  - **Linguagens & Tecnologias:** C, C++, Java, JavaScript, PHP, HTML, CSS, VHDL
+  - **Eletrônica:** Analógica e Digital
+  - **Ferramentas & Frameworks:** Git & GitHub, Arduino, Raspberry Pi, Desenvolvimento Web & Backend
+  
+  ## 🚀 Projetos
+  🔹 Em breve, adicionarei alguns dos meus projetos interessantes aqui. Fique ligado!
+  
+  ## 📫 Contato
+  - [LinkedIn](#)
+  - Email: *(seu email)*
+  - GitHub: [@seu-usuario](https://github.com/seu-usuario)
+  
+  ⭐ Se gostou do meu perfil, não esqueça de me seguir! 😃
+</details>
 
-👋 **Deutsch:** Hallo! Ich bin ein Elektronik- und Programmierbegeisterter, der immer nach komplexen Herausforderungen sucht und neue Technologien erlernen möchte.
-
-🎓 **English:** Computer Engineering student at UFRGS.
-🎓 **Português:** Estudante de Engenharia da Computação na UFRGS.
-🎓 **Deutsch:** Informatikstudent an der UFRGS.
-
-⚡ **English:** Experienced in software and hardware development, including programming languages and digital/analog electronics.
-⚡ **Português:** Tenho experiência com desenvolvimento de software e hardware, incluindo linguagens de programação e eletrônica digital/analógica.
-⚡ **Deutsch:** Erfahrung in Software- und Hardwareentwicklung, einschließlich Programmiersprachen und digitaler/analoger Elektronik.
-
----
-
-## 🛠️ Skills | Habilidades | Fertigkeiten
-
-### 📌 **Programming Languages & Technologies | Linguagens de Programação & Tecnologias | Programmiersprachen & Technologien**
-- C, C++, Java, JavaScript, PHP
-- HTML, CSS
-- VHDL
-- Analog and Digital Electronics | Eletrônica Analógica e Digital | Analoge und Digitale Elektronik
-
-### 🔧 **Tools & Frameworks | Ferramentas & Frameworks | Werkzeuge & Frameworks**
-- Git & GitHub
-- Arduino, Raspberry Pi
-- Web & Backend Development | Desenvolvimento Web & Backend | Web- & Backend-Entwicklung
-
----
-
-## 🚀 Projects | Projetos | Projekte
-🔹 **English:** Soon, I will add some of my interesting projects here. Stay tuned!
-🔹 **Português:** Em breve, adicionarei alguns dos meus projetos interessantes aqui. Fique ligado!
-🔹 **Deutsch:** Bald werde ich hier einige meiner interessanten Projekte hinzufügen. Bleiben Sie dran!
-
----
-
-## 📫 Contact | Contato | Kontakt
-📩 **English:** You can find me here:
-📩 **Português:** Você pode me encontrar aqui:
-📩 **Deutsch:** Sie können mich hier finden:
-
-- [LinkedIn](#) *(add your link | adicione seu link | fügen Sie Ihren Link hinzu)*
-- Email: *(add your email | adicione seu email | fügen Sie Ihre E-Mail hinzu)*
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
-
----
-
-⭐ **English:** If you like my profile, don't forget to follow me! 😃
-⭐ **Português:** Se gostou do meu perfil, não esqueça de me seguir! 😃
-⭐ **Deutsch:** Wenn Ihnen mein Profil gefällt, vergessen Sie nicht, mir zu folgen! 😃
+<details>
+  <summary>🌍 Deutsch</summary>
+  
+  👋 Hallo! Ich bin ein Elektronik- und Programmierbegeisterter, der immer nach komplexen Herausforderungen sucht und neue Technologien erlernen möchte.
+  
+  🎓 Informatikstudent an der UFRGS.
+  
+  ⚡ Erfahrung in Software- und Hardwareentwicklung, einschließlich Programmiersprachen und digitaler/analoger Elektronik.
+  
+  ## 🛠️ Fähigkeiten
+  - **Programmiersprachen & Technologien:** C, C++, Java, JavaScript, PHP, HTML, CSS, VHDL
+  - **Elektronik:** Analog & Digital
+  - **Werkzeuge & Frameworks:** Git & GitHub, Arduino, Raspberry Pi, Web- & Backend-Entwicklung
+  
+  ## 🚀 Projekte
+  🔹 Bald werde ich hier einige meiner interessanten Projekte hinzufügen. Bleiben Sie dran!
+  
+  ## 📫 Kontakt
+  - [LinkedIn](#)
+  - Email: *(Ihre E-Mail)*
+  - GitHub: [@Ihr-Benutzername](https://github.com/Ihr-Benutzername)
+  
+  ⭐ Wenn Ihnen mein Profil gefällt, vergessen Sie nicht, mir zu folgen! 😃
+</details>
