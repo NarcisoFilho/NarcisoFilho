@@ -1,96 +1,98 @@
 # 💻 About Me
 
-<div align="center">
-  <button onclick="showLanguage('english')">🇬🇧 English</button>
-  <button onclick="showLanguage('portuguese')">🇧🇷 Português</button>
-  <button onclick="showLanguage('german')">🇩🇪 Deutsch</button>
-</div>
+## 🌍 English
+
+<details>
+  <summary>Click to view English content</summary>
+
+  👋 Hi there! I'm a **Computer Engineering student** with a strong passion for technology, especially in the fields of **programming**, **software engineering**, and **emerging technologies** like **5G** and **OpenRAN**. Currently, I’m diving deep into **web development**, **cloud computing**, and the **wireless communication** space.  
+
+  I enjoy taking on **challenging problems**, whether it's building **interactive visualizations** or contributing to **cutting-edge research**. I'm always exploring new **technologies** and finding innovative ways to integrate them into real-world applications.  
+
+  ### 🛠️ What I Work With
+  - **Programming:** C, C++, Python, TypeScript, JavaScript
+  - **Web Development:** HTML, CSS, Angular, Django
+  - **Cloud & Virtualization:** Docker, AWS
+  - **Databases:** PostgreSQL, MySQL
+  - **Tools:** Git, GitHub, Agile methodologies
+
+  ### 🌐 Languages
+  - 🇧🇷 **Portuguese** (Native)
+  - 🇬🇧 **English** (Advanced)
+  - 🇩🇪 **German** (Intermediate)
+
+  ### 🚀 Current Focus:
+  - Researching **5G** and **OpenRAN** at **RPTU**, Germany
+  - Contributing to the **OpenRAN@Brasil** project, building **web visualizations** for **telecom networks**
+  - Exploring **cloud technologies** and **data science**
+
+  ### 📫 Let's Connect!
+  - [LinkedIn](https://www.linkedin.com/in/XXL/)
+  - Email: [XXNR@outlook.com](mailto:XXNR@outlook.com)
+  - GitHub: [@XXNF](https://github.com/XXNF)
+
+  ⭐ Feel free to check out my repositories and follow along if you like what I’m building! 😃
+</details>
 
 ---
 
-<div id="english" style="display:block;">
-  
-  ## 🌍 English
-  
-  👋 Hi! I'm an electronics and programming enthusiast, always looking to solve complex challenges and learn new technologies.
-  
-  🎓 Computer Engineering student at UFRGS.
-  
-  ⚡ Experienced in software and hardware development, including programming languages and digital/analog electronics.
-  
-  ### 🛠️ Skills
-  - **Programming Languages & Technologies:** C, C++, Java, JavaScript, PHP, HTML, CSS, VHDL
-  - **Electronics:** Analog & Digital
-  - **Tools & Frameworks:** Git & GitHub, Arduino, Raspberry Pi, Web & Backend Development
-  
-  ### 🚀 Projects
-  🔹 Soon, I will add some of my interesting projects here. Stay tuned!
-  
-  ### 📫 Contact
-  - [LinkedIn](#)
-  - Email: *(your email)*
-  - GitHub: [@your-username](https://github.com/your-username)
-  
-  ⭐ If you like my profile, don't forget to follow me! 😃
-</div>
+## 🌍 Português
 
-<div id="portuguese" style="display:none;">
-  
-  ## 🌍 Português
-  
-  👋 Olá! Sou um entusiasta da eletrônica e programação, sempre buscando solucionar desafios complexos e aprender novas tecnologias.
-  
-  🎓 Estudante de Engenharia da Computação na UFRGS.
-  
-  ⚡ Tenho experiência com desenvolvimento de software e hardware, incluindo linguagens de programação e eletrônica digital/analógica.
-  
-  ### 🛠️ Habilidades
-  - **Linguagens & Tecnologias:** C, C++, Java, JavaScript, PHP, HTML, CSS, VHDL
-  - **Eletrônica:** Analógica e Digital
-  - **Ferramentas & Frameworks:** Git & GitHub, Arduino, Raspberry Pi, Desenvolvimento Web & Backend
-  
-  ### 🚀 Projetos
-  🔹 Em breve, adicionarei alguns dos meus projetos interessantes aqui. Fique ligado!
-  
-  ### 📫 Contato
-  - [LinkedIn](#)
-  - Email: *(seu email)*
-  - GitHub: [@seu-usuario](https://github.com/seu-usuario)
-  
-  ⭐ Se gostou do meu perfil, não esqueça de me seguir! 😃
-</div>
+<details>
+  <summary>Click to view Português content</summary>
 
-<div id="german" style="display:none;">
-  
-  ## 🌍 Deutsch
-  
-  👋 Hallo! Ich bin ein Elektronik- und Programmierbegeisterter, der immer nach komplexen Herausforderungen sucht und neue Technologien erlernen möchte.
-  
-  🎓 Informatikstudent an der UFRGS.
-  
-  ⚡ Erfahrung in Software- und Hardwareentwicklung, einschließlich Programmiersprachen und digitaler/analoger Elektronik.
-  
-  ### 🛠️ Fähigkeiten
-  - **Programmiersprachen & Technologien:** C, C++, Java, JavaScript, PHP, HTML, CSS, VHDL
-  - **Elektronik:** Analog & Digital
-  - **Werkzeuge & Frameworks:** Git & GitHub, Arduino, Raspberry Pi, Web- & Backend-Entwicklung
-  
-  ### 🚀 Projekte
-  🔹 Bald werde ich hier einige meiner interessanten Projekte hinzufügen. Bleiben Sie dran!
-  
-  ### 📫 Kontakt
-  - [LinkedIn](#)
-  - Email: *(Ihre E-Mail)*
-  - GitHub: [@Ihr-Benutzername](https://github.com/Ihr-Benutzername)
-  
-  ⭐ Wenn Ihnen mein Profil gefällt, vergessen Sie nicht, mir zu folgen! 😃
-</div>
+  👋 Olá! Sou um **estudante de Engenharia da Computação** apaixonado por **tecnologia**, especialmente **programação**, **engenharia de software** e **tecnologias emergentes** como **5G** e **OpenRAN**. Atualmente, estou me aprofundando em **desenvolvimento web**, **computação em nuvem** e **comunicações sem fio**.
 
-<script>
-  function showLanguage(lang) {
-    document.getElementById('english').style.display = 'none';
-    document.getElementById('portuguese').style.display = 'none';
-    document.getElementById('german').style.display = 'none';
-    document.getElementById(lang).style.display = 'block';
-  }
-</script>
+  Adoro resolver **desafios complexos**, seja criando **visualizações interativas** ou contribuindo com **pesquisas inovadoras**. Estou sempre explorando novas **tecnologias** e encontrando maneiras de integrá-las em aplicações práticas.
+
+  ### 🛠️ Tecnologias que Uso
+  - **Programação:** C, C++, Python, TypeScript, JavaScript
+  - **Desenvolvimento Web:** HTML, CSS, Angular, Django
+  - **Cloud & Virtualização:** Docker, AWS
+  - **Bancos de Dados:** PostgreSQL, MySQL
+  - **Ferramentas:** Git, GitHub, Metodologias Ágeis
+
+  ### 🚀 Foco Atual:
+  - Pesquisando **5G** e **OpenRAN** na **RPTU**, Alemanha
+  - Contribuindo para o projeto **OpenRAN@Brasil**, criando **visualizações web** para **redes de telecomunicações**
+  - Explorando **tecnologias em nuvem** e **ciência de dados**
+
+  ### 📫 Vamos Conectar!
+  - [LinkedIn](https://www.linkedin.com/in/XXL/)
+  - Email: [XXNR@outlook.com](mailto:XXNR@outlook.com)
+  - GitHub: [@XXNF](https://github.com/XXNF)
+
+  ⭐ Sinta-se à vontade para conferir meus repositórios e seguir se gostar do que estou construindo! 😃
+</details>
+
+---
+
+## 🌍 Deutsch
+
+<details>
+  <summary>Click to view Deutsch content</summary>
+
+  👋 Hallo! Ich bin ein **Informatikstudent**, der leidenschaftlich an **Technologie** interessiert ist, besonders an **Programmierung**, **Softwaretechnik** und **aufstrebenden Technologien** wie **5G** und **OpenRAN**. Zurzeit konzentriere ich mich auf **Webentwicklung**, **Cloud-Computing** und **Drahtlostechnologien**.
+
+  Ich liebe es, **herausfordernde Probleme** zu lösen, sei es durch das Erstellen von **interaktiven Visualisierungen** oder durch die Mitarbeit an **innovativen Forschungsprojekten**. Ich bin immer auf der Suche nach neuen **Technologien** und deren Anwendung in der realen Welt.
+
+  ### 🛠️ Technologien, Mit denen Ich Arbeite
+  - **Programmierung:** C, C++, Python, TypeScript, JavaScript
+  - **Webentwicklung:** HTML, CSS, Angular, Django
+  - **Cloud & Virtualisierung:** Docker, AWS
+  - **Datenbanken:** PostgreSQL, MySQL
+  - **Werkzeuge:** Git, GitHub, Agile Methoden
+
+  ### 🚀 Aktueller Fokus:
+  - Forschung zu **5G** und **OpenRAN** an der **RPTU**, Deutschland
+  - Mitarbeit am **OpenRAN@Brasil**-Projekt, Erstellung von **Webvisualisierungen** für **Telekommunikationsnetze**
+  - Erforschung von **Cloud-Technologien** und **Datenwissenschaft**
+
+  ### 📫 Lass uns Verbinden!
+  - [LinkedIn](https://www.linkedin.com/in/XXL/)
+  - Email: [XXNR@outlook.com](mailto:XXNR@outlook.com)
+  - GitHub: [@XXNF](https://github.com/XXNF)
+
+  ⭐ Schau dir meine Repositories an und folge mir, wenn dir gefällt, was ich baue! 😃
+</details>
+
