@@ -4,6 +4,7 @@
 - **Languages**: C, C++, Python, TypeScript, JavaScript
 - **Web**: HTML, CSS, Angular, Django
 - **Cloud**: Docker, AWS
+- **Robotics**: ROS, OpenCV, Gazebo, Arduino, TensorFlow for robotics, Embedded Systems
 
 ---
 
