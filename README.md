@@ -9,7 +9,6 @@
 
 ## 📫 Let's Connect:
 
-- 🔗 **LinkedIn**: [https://www.linkedin.com/in/xxxx/](https://www.linkedin.com/in/xxxx/)
-- 🐙 **GitHub**: [github.com/xx](https://github.com/xx)
-- ✉️ **Email**: [your-email@example.com](mailto:your-email@example.com)
-- 🌐 **Portfolio**: [your-portfolio.com](http://your-portfolio.com)
+- 🔗 **LinkedIn**: [https://www.linkedin.com/in/manoel-narciso-reis-a6a34a210/](https://www.linkedin.com/in/manoel-narciso-reis-a6a34a210/)
+- 🐙 **GitHub**: [github.com/NarcisoFilho](https://github.com/NarcisoFilho)
+- ✉️ **Email**: [mnrsfilho@inf.ufrgs.br](mnrsfilho@inf.ufrgs.br)
