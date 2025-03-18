@@ -1,9 +1,2 @@
-| ![Your Image](https://github.com/user-attachments/assets/4e759c19-2a67-43a1-abf8-9636f29692b8) | 
-| ------------------------------------------------------------------------------------------------- |
-| **🛠️ Technologies:**                                                                           |
-| - **Languages**: C, C++, Python, TypeScript, JavaScript                                         |
-| - **Web**: HTML, CSS, Angular, Django                                                          |
-| - **Cloud**: Docker, AWS                                                                       |
-| **📫 Let's connect:**                                                                          |
-| - **LinkedIn**: [https://www.linkedin.com/in/mxx34a210/](https://www.linkedin.com/in/mxx34a210/) |
-| - **GitHub**: [github.com/xx](https://github.com/xx)                                            |
+| ![Image](https://github.com/user-attachments/assets/4e759c19-2a67-43a1-abf8-9636f29692b8) | **🛠️ Technologies:**<br><ul><li><strong>Languages</strong>: C, C++, Python, TypeScript, JavaScript</li><li><strong>Web</strong>: HTML, CSS, Angular, Django</li><li><strong>Cloud</strong>: Docker, AWS</li></ul><br><strong>📫 Let's connect:</strong><br><ul><li><strong>LinkedIn</strong>: [https://www.linkedin.com/in/mxx34a210/](https://www.linkedin.com/in/mxx34a210/)</li><li><strong>GitHub</strong>: [github.com/xx](https://github.com/xx)</li></ul> |
+|------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
