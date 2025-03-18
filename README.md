@@ -7,5 +7,5 @@
 - **Cloud**: Docker, AWS
 
 ### 📫 Contato:
-- **linkedin**: [xxmail@outlook.com](https://www.linkedin.com/in/manoel-narciso-reis-a6a34a210/)  
+- **LinkedIn**: [linkedin.com/in/Manoel Narciso Reis](https://www.linkedin.com/in/manoel-narciso-reis-a6a34a210/)  
 - **GitHub**: [github.com/NarcisoFilho](https://github.com/NarcisoFilho)
