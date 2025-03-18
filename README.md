@@ -1,5 +1,5 @@
- ![Hello! (3240 x 1080 px)](https://github.com/user-attachments/assets/c3c5a49e-f984-44eb-99c3-527565961b41)  
- 
+![Hello! (3240 x 1080 px)(3)](https://github.com/user-attachments/assets/c20729f6-ca7d-471d-827c-3e1eff809de6)
+
 ## 🛠️ Technologies:
 - **Languages**: C, C++, Python, TypeScript, JavaScript
 - **Web**: HTML, CSS, Angular, Django
