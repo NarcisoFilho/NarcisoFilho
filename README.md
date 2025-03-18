@@ -1,18 +1,9 @@
-<div style="display: flex; align-items: flex-start; border: 3px solid black; padding: 10px;">
-  <div style="flex: 1; padding: 10px;">
-    <img src="https://github.com/user-attachments/assets/4e759c19-2a67-43a1-abf8-9636f29692b8" width="300" style="display: block; border: 0;" />
-  </div>
-  <div style="flex: 2; padding: 10px;">
-    <h3>🛠️ Technologies:</h3>
-    <ul>
-      <li><strong>Languages</strong>: C, C++, Python, TypeScript, JavaScript</li>
-      <li><strong>Web</strong>: HTML, CSS, Angular, Django</li>
-      <li><strong>Cloud</strong>: Docker, AWS</li>
-    </ul>
-    <h3>📫 Let's connect:</h3>
-    <ul>
-      <li><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/mxx" target="_blank">https://www.linkedin.com/in/mxx34a210/</a></li>
-      <li><strong>GitHub</strong>: <a href="https://github.com/xx" target="_blank">github.com/xx</a></li>
-    </ul>
-  </div>
-</div>
+| ![Your Image](https://github.com/user-attachments/assets/4e759c19-2a67-43a1-abf8-9636f29692b8) | 
+| ------------------------------------------------------------------------------------------------- |
+| **🛠️ Technologies:**                                                                           |
+| - **Languages**: C, C++, Python, TypeScript, JavaScript                                         |
+| - **Web**: HTML, CSS, Angular, Django                                                          |
+| - **Cloud**: Docker, AWS                                                                       |
+| **📫 Let's connect:**                                                                          |
+| - **LinkedIn**: [https://www.linkedin.com/in/mxx34a210/](https://www.linkedin.com/in/mxx34a210/) |
+| - **GitHub**: [github.com/xx](https://github.com/xx)                                            |
