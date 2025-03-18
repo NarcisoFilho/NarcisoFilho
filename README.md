@@ -1,9 +1,9 @@
-<table style="border: none; border-collapse: collapse; width: 100%;">
+<table style="border: 3px solid black; border-collapse: collapse; width: 100%;">
   <tr>
-    <td style="border: none; padding-right: 20px;">
+    <td style="border: 3px solid black;">
       <img src="https://github.com/user-attachments/assets/4e759c19-2a67-43a1-abf8-9636f29692b8" width="300" />
     </td>
-    <td style="border: none;">
+    <td style="border: 3px solid black;">
       <h3>🛠️ Technologies:</h3>
       <ul>
         <li><strong>Languages</strong>: C, C++, Python, TypeScript, JavaScript</li>
