@@ -1,4 +1,5 @@
-![Hello!](https://github.com/user-attachments/assets/4e759c19-2a67-43a1-abf8-9636f29692b8.gif =500x500)
+<img src="https://github.com/user-attachments/assets/4e759c19-2a67-43a1-abf8-9636f29692b8" width="300" />
+
 
 ### 🛠️ Technologies:
 - **Languages**: C, C++, Python, TypeScript, JavaScript
